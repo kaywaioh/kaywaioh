@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		FA927D982864AF8600F3CD42 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = FA927D972864AF8600F3CD42 /* main.c */; };
-		FA927DAB2864BEB900F3CD42 /* fffff.c in Sources */ = {isa = PBXBuildFile; fileRef = FA927DAA2864BEB900F3CD42 /* fffff.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,7 +30,6 @@
 		FA927DA72864B0FA00F3CD42 /* opensource-5g-core-service-mesh-main */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "opensource-5g-core-service-mesh-main"; path = "../../open5gsforxcode/opensource-5g-core-service-mesh-main"; sourceTree = "<group>"; };
 		FA927DA82864B10600F3CD42 /* openverso-charts-master */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "openverso-charts-master"; path = "../../open5gsforxcode/openverso-charts-master"; sourceTree = "<group>"; };
 		FA927DA92864BEB900F3CD42 /* fffff.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = fffff.h; sourceTree = "<group>"; };
-		FA927DAA2864BEB900F3CD42 /* fffff.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = fffff.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,7 +68,6 @@
 				FA927DA32864AFBC00F3CD42 /* open5gsconfig */,
 				FA927DA62864B01900F3CD42 /* README.md */,
 				FA927DA92864BEB900F3CD42 /* fffff.h */,
-				FA927DAA2864BEB900F3CD42 /* fffff.c */,
 			);
 			path = myproject;
 			sourceTree = "<group>";
@@ -132,7 +129,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FA927DAB2864BEB900F3CD42 /* fffff.c in Sources */,
 				FA927D982864AF8600F3CD42 /* main.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
